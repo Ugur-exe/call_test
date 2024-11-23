@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62051269138",
+    "project_id": "test-noti-5f8d2",
+    "storage_bucket": "test-noti-5f8d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62051269138:android:8d2b2acb38ec5d642c36cb",
+        "android_client_info": {
+          "package_name": "co.doneservices.callkeep.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnWPwN0QDhujIVX5ereX670aNY0PWZm3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
